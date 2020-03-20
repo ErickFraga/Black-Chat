@@ -2,7 +2,7 @@
 
 - Um chat em tempo real usando sockt.io ")
 
-    [tela do chat](https://imgur.com/L8ZeDGe)
+    ![tela do chat](https://imgur.com/L8ZeDGe)
 
 ## black-chat to-do list
 
