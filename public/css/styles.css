@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    background-color: black;
+    color: whitesmoke;
+    /*
+    font-family: 'Share Tech Mono', monospace;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'B612 Mono', monospace;
+    font-family: 'Monoton', cursive;
+    */
+    font-family: 'Share Tech Mono', monospace;
+  }
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  #chat {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  
+  
+  .messages {
+    width: 600px;
+    height: 400px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+    padding: 20px;
+  }
+
+  .title {
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    text-align: center;
+  }
+
+  .message-submit{
+    width: 600px;
+    margin-top: 10px;
+  }
