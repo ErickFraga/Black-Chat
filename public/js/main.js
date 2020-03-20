@@ -1,6 +1,11 @@
 var socket = io('http://localhost:3000/');
 
+if(socket.disconnected){
+    socket = io('https://bl4ck-ch4t.herokuapp.com/');
+}
+
 function renderMessage(message) {
+    console.log(socket);
     
     var color = "whitesmoke";
 
