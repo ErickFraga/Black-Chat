@@ -6,12 +6,12 @@
 
 ## black-chat to-do list
 
-- [ ] Construir comunicação do chat com socket-io.
+- [x] Construir comunicação do chat com socket-io.
     - [x] Enviar mensagens.
     - [x] Renderizar mensagens na tela.
     - [x] Sicronizar menssgens em tempo real.
-    - [ ] Nomes com cores diferentes para cada usuario no chat.
-    - [ ] Usuarioa altera cor do proprio nome.
+    - [x] Nomes com cores diferentes para cada usuario no chat.
+    - [x] Usuarioa altera cor do proprio nome.
 
 - [ ] Customizar chat usando bootstrap.
     - [x] Preto no branco.
