@@ -2,7 +2,7 @@
 
 
 
-var socket = io('https://bl4ck-ch4t.herokuapp.com/');
+var socket = io('http://bl4ck-ch4t.herokuapp.com/');
 
 const colors = {
     "Amarelo": "#ffc107",
